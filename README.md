@@ -2,14 +2,14 @@
 This repository contains supplementary material from the Master's Thesis written by Alexander Öttl.
 It is structured in three sections that contain the preparation of the data, the estimation of the analysis, and the robustness checks. 
 
-# Data development - data_oettl_MT.R
+## Data development - data_oettl_MT.R
 For the thesis, 8 datasets are developed - divided into 2018 and 2019 observations
 as well as 3 levels of aggregation. Starting from highest to lowest level
 of aggregation. Furthermore, the highest level of aggregation is divided 
 into volume and value observations.
 
 
-# Predictive Modeling - estimations_oettl_MT.R
+## Predictive Modeling - estimations_oettl_MT.R
 This script is structured as the thesis with three subsections in the
 analysis. First, the relation of food purchases and environmental concerns
 is investigated using inference statistical methods. Second, the machine
@@ -23,7 +23,7 @@ aggregation level.
 Note: Depending on the computational power this script runs approx. 20 min
 
 
-# Robustness checks - robustness_oettl_MT.R
+## Robustness checks - robustness_oettl_MT.R
 The robustness checks contain two sections. First, a gradient boosting
 machine is estimated. It is similarly presented to the random forests,
 therefore, the confusion matrix plot function is defined at the beginning.
