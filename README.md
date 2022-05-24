@@ -9,7 +9,7 @@ of aggregation. Furthermore, the highest level of aggregation is divided
 into volume and value observations.
 
 
-## Predictive Modeling - estimations_oettl_MT.R
+## Predictive modeling - estimations_oettl_MT.R
 This script is structured as the thesis with three subsections in the
 analysis. First, the relation of food purchases and environmental concerns
 is investigated using inference statistical methods. Second, the machine
