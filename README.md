@@ -30,3 +30,5 @@ therefore, the confusion matrix plot function is defined at the beginning.
 Second, the random forest estimations are recalculated with a balanced panel.
 Hence, the forest is only trained on 2018 observations that are also in 2019
 and only has to predict 2019 observations that are also in 2018. 
+
+Note: Depending on the computational power this script runs approx. 35 min
